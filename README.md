@@ -6,7 +6,7 @@
 ### 📚 Contents
 
 1. [Belajar Dasar Visualisasi Data]
-    - [[📂]()] [[🔍](https://www.dicoding.com/academies/177/tutorials)] [[📃](https://www.dicoding.com/certificates/ERZR5DGOWPYV)]
+    - [[📂](https://github.com/RaharditoDio/IDCamp-Machine-Learning-Developer-Learning-Path/blob/main/Latihan%20Modul%201)] [[🔍](https://www.dicoding.com/academies/177/tutorials)] [[📃](https://www.dicoding.com/certificates/ERZR5DGOWPYV)]
 2. [Memulai Pemrograman Dengan Python]
     - [[📂]()] [[🔍](https://www.dicoding.com/academies/86/tutorials)] [[📃](https://www.dicoding.com/certificates/QLZ98GDWEX5D)]
 3. [Belajar Machine Learning untuk Pemula]
